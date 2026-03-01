@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-id="beinsports1" group-title="SPOR",BEIN SPORTS 1
 https://andro.1386503.xyz/checklist/receptestt.m3u8
 
+#EXTINF:-1 group-title="FILMLER",A Minecraft Movie (2025)
+https://mirror.hep.gg/Plex/Movies/A%20Minecraft%20Movie%20%282025%29/A%20Minecraft%20Movie%20%282025%29%20WEBDL-2160p.mkv
+
+#EXTINF:-1 group-title="FILMLER",Cars (2006)
+https://mirror.hep.gg/Plex/Movies/Cars%20%282006%29/Cars%20%282006%29%20Bluray-1080p.mp4
+
+#EXTINF:-1 group-title="DIZILER",Brooklyn Nine-Nine - S01E01 - Pilot
+https://mirror.hep.gg/Plex/TV_Shows/Brooklyn%20Nine-Nine/Season%201/Brooklyn%20Nine-Nine%20-%20S01E01%20-%20Pilot%20WEBDL-1080p.mkv
+
 #EXTINF:-1 group-title="TURKIYE",--- TURKIYE KANALLARI ---
 https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 group-title="FILMLER",--- CANLI FILM KANALLARI ---
-https://iptv-org.github.io/iptv/categories/movies.m3u
