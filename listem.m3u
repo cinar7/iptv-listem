@@ -1,8 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports1" group-title="SPOR",BEIN SPORTS 1
-https://andro.1386503.xyz/checklist/receptestt.m3u8
-
-#EXTINF:-1 group-title="TURKIYE",--- TURKIYE KANALLARI ---
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-
+#EXTINF:-1 group-title="TURK KANALLARI",TURKIYE FULL PAKET
+https://onureroz.com/indirmeler/turk/index.m3u
